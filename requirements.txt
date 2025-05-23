@@ -1,0 +1,17 @@
+streamlit
+Pillow
+fpdf
+matplotlib
+
+streamlit
+torch
+torchvision
+matplotlib
+Pillow
+fpdf
+
+#git clone https://github.com/your-username/TrendWeaver-AI.git
+#cd TrendWeaver-AI
+
+#pip install -r requirements.txt
+#streamlit run app.py
